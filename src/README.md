@@ -66,6 +66,8 @@ Go to *src* folder and make installation of WTB package
 
 > make
 
+> cp bin/wtb.x ~/bin
+
 ## Installation on STOKES cluster of UCF, 1/16/2026
 
 Load the modules:
@@ -127,6 +129,8 @@ Make installation of WTB package:
 
 > make 2> warnings.txt
 
+> cp bin/wtb.x ~/bin
+
 ## Installation on ANVIL cluster of Purdue University, 5/11/2026
 
 Load the modules:
@@ -178,3 +182,6 @@ Make installation of WTB package:
 > make clean
 
 > make
+
+> cp bin/wtb.x ~/bin
+
